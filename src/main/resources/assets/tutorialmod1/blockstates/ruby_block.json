@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "tutorialmod1:ruby_block" },
+    "inventory": { "model": "tutorialmod1:ruby_block" }
+  }
+}
